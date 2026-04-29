@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
-  "botUsername": "MyBot",
+  "serverHost": "EymenBingos.aternos.me",
+  "serverPort": 33318,
+  "botUsername": "BingoBot1234",
   "botChunk": 1
 }
